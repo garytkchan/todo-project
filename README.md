@@ -1,4 +1,4 @@
-# Demo Todo List 1 page app
+# Todo List single page demo web app
 
 This project is written in Python with Django 2.2 and back up by the Postgres database. It is bootstrapped with HTML.
 
